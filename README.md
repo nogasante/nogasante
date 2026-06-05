@@ -4,7 +4,7 @@
 
 I am a "Tech Guy" bridging the gap between **Statistical Theory**, **Software Engineering**, and **Creative Design**.
 
-I am currently laying the foundation for **Nogadex Consults**, an upcoming tech solutions agency. My goal is to build a "One-Stop Shop" for digital problems—combining data, code, and design.
+I am currently laying the foundation for **Nogadex**, an upcoming tech solutions agency. My goal is to build a "One-Stop Shop" for digital problems—combining data, code, and design.
 
 ---
 
